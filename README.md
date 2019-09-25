@@ -1,1 +1,2 @@
 # Java-Defensive-Programming-Project
+The main code for the project was given to us as part of the project. We were required to fix the code and made it more secure so that it should be less vulnerable. These are the things we checked and fixed 1)Logical and lexical Errors 2) Class, Variable and Argument hardening 3) Exception handling  4) Reomove Redundant Null checking 5) Check the bug of the code with FindBug Analysis to catch errors.
